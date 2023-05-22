@@ -1,4 +1,4 @@
-# weather_api
+# weather_app
 
 Aplicação de consulta de clima consumindo api de previsão de tempo em tempo real e api de bandeiras de países. 
 
